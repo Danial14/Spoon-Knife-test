@@ -1,7 +1,5 @@
 Crimson
-Orange
 Blue
-Cyan
 Yellow
 Charcoal
 Khaki
@@ -13,3 +11,5 @@ Brown
 Red
 Black
 Green
+Pink
+Violet
